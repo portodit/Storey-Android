@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Storey</string>
+    <string name="or">or</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="add_description_to_story">Add description to story</string>
+    <string name="add_story">Add Story</string>
+    <string name="log_out">Log Out</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="appwidget_text">Storey</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="change_language">Change Language</string>
+    <string name="retry">Retry</string>
+    <string name="story_map">Story Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="add_current_location">Add current location</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Storey</string>
+    <string name="or">atau</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="name">Nama</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="add_description_to_story">Tambahkan deskripsi ke cerita</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="log_out">Keluar</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget aplikasi</string>
+    <string name="appwidget_text">Storey</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="story_map">Peta Cerita</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_map">Peta Normal</string>
+    <string name="satellite_map">Peta Satelit</string>
+    <string name="terrain_map">Peta Medan</string>
+    <string name="hybrid_map">Peta Hibrida</string>
+    <string name="add_current_location">Tambahkan lokasi saat ini</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Storey</string>
+    <string name="or">または</string>
+    <string name="register">登録</string>
+    <string name="login">ログイン</string>
+    <string name="name">名前</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="camera">カメラ</string>
+    <string name="add_description_to_story">ストーリーに説明を追加</string>
+    <string name="add_story">ストーリーを追加</string>
+    <string name="log_out">ログアウト</string>
+    <string name="add_widget">ウィジェットを追加</string>
+    <string name="app_widget_description">これはアプリウィジェットの説明です</string>
+    <string name="appwidget_text">Storey</string>
+    <string name="empty_text">データがありません</string>
+    <string name="change_language">言語を変更</string>
+    <string name="retry">再試行</string>
+    <string name="story_map">ストーリーマップ</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_map">通常マップ</string>
+    <string name="satellite_map">衛星マップ</string>
+    <string name="terrain_map">地形マップ</string>
+    <string name="hybrid_map">ハイブリッドマップ</string>
+    <string name="add_current_location">現在の場所を追加</string>
+</resources>
